@@ -2,27 +2,41 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1 (zaktualizowany)"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2 asfasf"
     },
     {
       "id": 3,
       "title": "Post 3"
+    },
+    {
+      "id": 4,
+      "title": "Post 4 (nowy)"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment1",
+      "body": "some comment1 asfas(poprawiony tekst)",
       "postId": 1
     },
     {
       "id": 2,
       "body": "some comment2",
       "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "nowy komentarz do posta 2",
+      "postId": 2
+    },
+    {
+      "id": 4,
+      "body": "kolejny komentarz do posta 4",
+      "postId": 4
     }
   ],
   "profile": {
